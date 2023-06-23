@@ -87,5 +87,21 @@ class LinkedList {
         return val; 
     }
 
+    // searching for a value
+    node* search(int val) {
+        // search for a value; return the first node found
+        node* ptr = head;
+        while (ptr) {
+            if (ptr->value == val) return ptr;
+            ptr = ptr->next;
+        }
+        return nullptr;
+    }
+
+    // destructor
+    ~LinkedList() {
+        while (tail) removeBack();
+    }
+
 
 }; // class LinkedList

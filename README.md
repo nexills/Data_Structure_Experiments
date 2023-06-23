@@ -1,2 +1,2 @@
-# Data-Structure-Exercises
+# Data Structure Experiments
 Experimenting with some common data structures

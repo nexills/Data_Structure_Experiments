@@ -5,6 +5,4 @@ Data Structures included:
 - Linked Lists
 - Stacks & Queues based on linked lists
 - Stacks & Queues based on arrays and circular arrays
-
-To add:
-- Binary Trees
+- A simple AVL Binary Tree

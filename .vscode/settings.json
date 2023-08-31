@@ -104,5 +104,6 @@
     "typeinfo": "cpp",
     "cstdarg": "cpp",
     "optional": "cpp"
-  }
+  },
+  "C_Cpp_Runner.useLinkTimeOptimization": false
 }

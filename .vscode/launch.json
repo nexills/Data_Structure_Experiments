@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Personal/Code experiment/Data-Structure-Experiments",
-      "program": "c:/Personal/Code experiment/Data-Structure-Experiments/build/Debug/outDebug",
+      "cwd": "c:/Personal/Code experiment/Data_Structure_Experiments",
+      "program": "c:/Personal/Code experiment/Data_Structure_Experiments/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
